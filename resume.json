@@ -1,0 +1,408 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "basics": {
+      "name": "Zackary Brewer",
+      "label": "Infrastructure Engineer at Epic",
+      "image": "",
+      "email": "resume@zendritic.net",
+      "phone": "+1-210-816-4546",
+      "url": "www.zendritic.net",
+      "summary": "Highly skilled and motivated Infrastructure Automation Engineer with a strong background in network engineering. Leveraging 5 years of experience in developing infrastructure automation solutions for network devices using Ansible and Python. Possessing a Cisco CCNA certification and Cisco DevNet Associate certification. Committed to streamlining operations, improving efficiency, and optimizing network performance through automation. Proven track record in successfully implementing automation projects and driving impactful results. Seeking a challenging role to contribute technical expertise and drive innovation in infrastructure automation.",
+      "location": {
+        "countryCode": "US",
+        "address": "United States"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "zackarybrewer",
+          "url": "https://www.linkedin.com/in/zackarybrewer/"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "Epic",
+        "position": "Network Engineer",
+        "startDate": "2018-02-28",
+        "endDate": "",
+        "highlights": [],
+        "summary": "Epic Hosting Network Development Lead",
+        "url": "https://www.linkedin.com/company/epic1979/",
+        "location": "United States"
+      },
+      {
+        "name": "SupraNet Communications, Inc",
+        "position": "Network Technician",
+        "startDate": "2016-01-31",
+        "endDate": "2018-02-28",
+        "highlights": [],
+        "summary": "Configuring and troubleshooting Cisco, Juniper, Mikrotik, etc. routers, switches, and firewalls, to maintain ISP core systems, customer Internet service, and as consulting projects for small-business networks.",
+        "url": "https://www.linkedin.com/company/supranet-communications-inc/"
+      },
+      {
+        "name": "SupraNet Communications, Inc",
+        "position": "Internet Support Technician",
+        "startDate": "2014-11-30",
+        "endDate": "2016-01-31",
+        "highlights": [],
+        "summary": "Unix Systems Administration for shared email and web hosting.\nWindows Active Directory desktop support and systems administration.\nTier 1 NOC support for business Internet service and transport.",
+        "url": "https://www.linkedin.com/company/supranet-communications-inc/"
+      },
+      {
+        "name": "California Parking Company",
+        "position": "Technical Support/Project Manager",
+        "startDate": "2008-10-31",
+        "endDate": "2013-12-31",
+        "highlights": [],
+        "summary": "Oversaw various projects, including the development of a new website.\nResearched, acquired and installed equipment, software, and services.\nManaged sensitive, confidential, and proprietary information.\nDiagnosed and corrected problems with software and hardware.\nImproved user efficiency and data security through education and innovation.\nCommunicated with clients, vendors, business partners, and employees.",
+        "url": "https://www.linkedin.com/company/california-parking-company/"
+      },
+      {
+        "name": "Global Gourmet Catering",
+        "position": "Server",
+        "startDate": "2008-09-30",
+        "endDate": "2009-10-31",
+        "highlights": [],
+        "summary": "Excellent customer service in fine dining atmosphere.",
+        "url": "https://www.linkedin.com/company/global-gourmet-catering/"
+      },
+      {
+        "name": "Grassroots Campaigns",
+        "position": "Door Cavasser and Field Manager",
+        "startDate": "2008-08-31",
+        "endDate": "2008-10-31",
+        "highlights": [],
+        "summary": "Cold calls for fundraising, door to door.\nPlanning routes for other canvassers based on historical fundraising trends.\nSupervising, training, and motivating canvassers in the field.",
+        "url": "https://www.linkedin.com/company/grassroots-campaigns/"
+      },
+      {
+        "name": "Blue Lake Casino",
+        "position": "TG Shift Supervisor",
+        "startDate": "2005-08-31",
+        "endDate": "2008-07-31",
+        "highlights": [],
+        "summary": "Provided leadership and training to Floor Supervisors and Card Dealers.\nSubmitted detailed daily reports to upper management.\nResponsible for large currency transactions and sensitive information.",
+        "url": "https://www.linkedin.com/company/blue-lake-casino/",
+        "location": "Blue Lake, California"
+      }
+    ],
+    "volunteer": [],
+    "education": [
+      {
+        "institution": "Madison Area Technical College",
+        "area": "Network Specialist",
+        "studyType": "",
+        "startDate": "",
+        "endDate": "",
+        "score": "",
+        "courses": []
+      },
+      {
+        "institution": "Humboldt State University",
+        "area": "Psychology",
+        "studyType": "BA",
+        "startDate": "2002-12-31",
+        "endDate": "2007-12-31",
+        "score": "",
+        "courses": []
+      },
+      {
+        "institution": "EHS!",
+        "area": "",
+        "studyType": "",
+        "startDate": "",
+        "endDate": "",
+        "score": "",
+        "courses": []
+      }
+    ],
+    "awards": [],
+    "certificates": [
+      {
+        "name": "Cisco Certified Network Associate Routing and Switching (CCNA)",
+        "issuer": "Cisco",
+        "endDate": "2025-01-31",
+        "startDate": "2018-07-31",
+        "url": "https://www.credly.com/badges/9b15273c-3cd2-4917-8ad3-be1710d576e3"
+      },
+      {
+        "name": "Cisco Certified DevNet Associate",
+        "issuer": "Cisco",
+        "endDate": "2025-01-31",
+        "startDate": "2022-01-31",
+        "url": "https://www.credly.com/badges/8f4b345c-9024-4e0a-bdbf-45bc4915cc30"
+      },
+      {
+        "name": "Understanding of Cisco Network Devices",
+        "issuer": "Cisco",
+        "url": "https://www.credly.com/badges/cfb565cc-61ae-4ee4-9615-80c6c0030e0a"
+      }
+    ],
+    "publications": [],
+    "skills": [
+      {
+        "name": "YAML",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Multiprotocol Label Switching (MPLS)",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Problem Solving",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Oral Communication",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Network Security",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "GitOps",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "On-call Support",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Hardware Installation",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Event Management",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Communication",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Network Automation",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Project Management",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Proposal Writing",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Infrastructure",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Continuous Integration (CI)",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Meeting Planning",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Linux",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Continuous Integration and Continuous Delivery (CI/CD)",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Dynamic Host Configuration Protocol (DHCP)",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Technical Support",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Network Administration",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Event Planning",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Site Reliability Engineering",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Domain Name System (DNS)",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Networking Technology",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Customer Service",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Kubernetes",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Tower",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Windows 7",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Active Directory",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Spanish",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Windows XP Pro",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Google Apps",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Go (Programming Language)",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Automation",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Google Maps",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Software Development",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Terraform",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Network Infrastructure",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Valet Parking",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Hardware Diagnostics",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "IPv4",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Continuous Delivery (CD)",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "AWX Project",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Microsoft Office",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Hardware Support",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "DevOps",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "IPv6",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Networking",
+        "level": "",
+        "keywords": []
+      },
+      {
+        "name": "Ansible",
+        "level": "",
+        "keywords": []
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Native Speaker"
+      }
+    ],
+    "interests": [],
+    "references": [],
+    "projects": [],
+    "meta": {
+      "version": "v1.0.0",
+      "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+    }
+  }
